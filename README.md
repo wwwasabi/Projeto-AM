@@ -1,6 +1,7 @@
 # Projeto-AM
 
 ### Considere os dados "Yeast Data Set":<br>
+#### cin IN1102
 
 a) Use validação cruzada estratificada “5-folds” para avaliar e comparar os classificadores descritos 
 abaixo. Quando necessario, retire do conjunto de aprendizagem, um conjunto de validação (20%)
